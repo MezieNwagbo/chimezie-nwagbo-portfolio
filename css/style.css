@@ -436,7 +436,6 @@ header {
 }
 
 .portfolio {
-	background-color: var(--clr-dark);
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
 	height: auto;
